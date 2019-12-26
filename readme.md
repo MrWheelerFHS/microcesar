@@ -29,3 +29,15 @@ Using A and B button to toggle through the letters alphabetically. Shaking the d
 ### advanced
 
 Tilting the device will shuffle through numbers, starting at 0 to set the key. Pressing A will send the key to another device on the same channel. Pressing B will start the encryption mode. Tilting the device will shuffle the letters. Pressing A will result in decryption with selected key, pressing B will encrypt instead.
+
+## Contact
+
+Johannes Hassenstein
+
+johannes.hassenstein@protonmail.com
+
+https://johassenstein.de
+
+## Copyright
+
+Use for whatever you want, just nothing illegal please.
